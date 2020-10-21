@@ -1,0 +1,5 @@
+Round 110:
+
+Donated 3.00 USD to Software Freedom Conservancy, Inc. via Paypal transaction 3DS91700XN899792L, performed by develCuy.
+
+The Devcoin Foundation refunded 3.00 USDT to develCuy via Stellar transaction 1b6ae2118e6d00a29025e0a9442e128559b4f103f2b23d38b0598c6f63162682.
